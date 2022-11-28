@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tomorrow+will+be+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tomorrow+will+be+better;So+keep+going)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning rust
 - 💬 Ask me about coding
