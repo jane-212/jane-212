@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jane-212)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)
+![jane's github activity graph](https://activity-graph.herokuapp.com/graph?username=jane-212&theme=dracula)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-212&theme=dark&layout=compact)
 
