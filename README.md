@@ -1,9 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tomorrow+will+be+better)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning rust
 - 💬 Ask me about coding
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tomorrow+will+be+better)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-212)](https://github.com/anuraghazra/github-readme-stats)
 
