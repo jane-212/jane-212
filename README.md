@@ -8,6 +8,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jane-212&show_icons=true&theme=dark&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jane-212)
-
-![jane's github activity graph](https://activity-graph.herokuapp.com/graph?username=jane-212&theme=dracula)
-
